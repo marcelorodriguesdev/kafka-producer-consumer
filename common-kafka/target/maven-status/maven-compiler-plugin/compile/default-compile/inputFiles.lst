@@ -1,0 +1,5 @@
+/home/msilva8/estudos/ecommerce/common-kafka/src/main/java/br/com/kafka/ecommerce/KafkaDispatcher.java
+/home/msilva8/estudos/ecommerce/common-kafka/src/main/java/br/com/kafka/ecommerce/configuration/GsonDeserializer.java
+/home/msilva8/estudos/ecommerce/common-kafka/src/main/java/br/com/kafka/ecommerce/ConsumerFunction.java
+/home/msilva8/estudos/ecommerce/common-kafka/src/main/java/br/com/kafka/ecommerce/configuration/GsonSerializer.java
+/home/msilva8/estudos/ecommerce/common-kafka/src/main/java/br/com/kafka/ecommerce/KafkaService.java
